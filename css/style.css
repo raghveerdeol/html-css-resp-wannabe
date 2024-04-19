@@ -136,7 +136,6 @@ img {
     /* tablet 768  */
     @media all and (max-width: 768px){
         .container {
-            max-width: 768px;
             margin: 0 auto;
             padding: 0 20px;
             width: auto;
@@ -152,7 +151,6 @@ img {
             align-items: center;
         }
         .container {
-            max-width: 480px;
             margin: 0;
             padding: 0 20px;
         }
